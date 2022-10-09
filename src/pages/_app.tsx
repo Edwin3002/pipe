@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
      <Head>
           <title>Reivid Sports</title>
-          <link rel = "icon" href="https://res.cloudinary.com/edwin3002/image/upload/v1665242470/felipe/logo-rs2_pjpetw.png" type = "image/x-icon"/>
+          <link rel = "icon" href="https://res.cloudinary.com/edwin3002/image/upload/v1665243347/felipe/rs2_qr4gli.png" type = "image/x-icon"/>
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
       <Navb />
